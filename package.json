@@ -1,0 +1,23 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "This project is an example of how to build a basic API using Node.JS.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephxanderson/covid-19-api-demo.git"
+  },
+  "author": "Joseph Anderson <josephanderson@upperaltitude.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephxanderson/covid-19-api-demo/issues"
+  },
+  "homepage": "https://github.com/josephxanderson/covid-19-api-demo#readme"
+}
