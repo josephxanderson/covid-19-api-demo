@@ -4,7 +4,7 @@
   "description": "This project is an example of how to build a basic API using Node.JS.",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {},
   "scripts": {
